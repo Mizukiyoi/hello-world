@@ -1,3 +1,5 @@
 # hello-world
-the first repository/n
+
+the first repository
+
 new to GitHub
